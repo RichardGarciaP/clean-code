@@ -1,7 +1,7 @@
 import "./style.css";
 
 // import "./clean-code/07-tarea";
-import "./code-smells/02-low-coupling";
+import "./solid/05-dependency-a";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
